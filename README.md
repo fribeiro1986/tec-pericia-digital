@@ -9,13 +9,14 @@ Bem-vindo(a) ao repositório que contém as perícias digitais que já realizei.
 - Cada pasta corresponde a um laboratório ou perícia distinta.
 - Os arquivos incluem documentos originais, análises técnicas, arquivos XML, relatórios e laudos simulados.
 - Sempre atualizo este repositório com novos trabalhos e estudos práticos.
+- Os nomes reais são anonimizados. 
 
 ---
 
 ## Contato
 
 Para dúvidas ou sugestões, entre em contato:  
-**Fabricio Ribeiro** – [GitHub](https://github.com/fribeiro1986) – email: seuemail@exemplo.com
+**Fabricio Ribeiro** – [GitHub](https://github.com/fribeiro1986) – email: analistafribeiro@gmail.om
 
 ---
 
